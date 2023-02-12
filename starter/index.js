@@ -7,18 +7,7 @@ const generateMarkdown = require("./utils/generateMarkdown");
 import inquirer from 'inquirer';
 
 // inquirer package install - https://www.npmjs.com/package/inquirer
-inquirer
-  .prompt(questions)
-  .then((answers) => {
-    // Use user feedback for... whatever!!
-  })
-  .catch((error) => {
-    if (error.isTtyError) {
-      // Prompt couldn't be rendered in the current environment
-    } else {
-      // Something else went wrong
-    }
-  });
+
 
 // array of questions for user
 const questions = [
@@ -32,11 +21,33 @@ const questions = [
 
 // function to write README file
 function writeToFile(fileName, data) {
+
+    var readmeString =  `# ${data.title}`;  
+
+    fs.writeFile('READMEtest.md', readmeString, function(errorCheck)
+    {
+        if(err) {
+            console.log("Error");
+        }
+        else {
+            console.log("ReadMe created");
+        }
+    })
 }
 
 // function to initialize program
 function init() {
-
+    inquirer.prompt(questions).then((answers) => {
+        // Use user feedback for... whatever!!
+        writeToFile(answers);
+      })
+      .catch((error) => {
+        if (error.isTtyError) {
+          console.log("Prompt couldn't be rendered in the current environment");
+        } else {
+          console.log("Something else went wrong");
+        }
+      });
 }
 
 // function call to initialize program
