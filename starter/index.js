@@ -4,7 +4,7 @@ const inquirer = require("inquirer");
 const generateMarkdown = require("./utils/generateMarkdown");
 
 // Not sure if this is required given the line above??
-import inquirer from 'inquirer';
+// import inquirer from 'inquirer';
 
 // inquirer package install - https://www.npmjs.com/package/inquirer
 
@@ -24,7 +24,7 @@ function writeToFile(fileName, data) {
 
     var readmeString =  `# ${data.title}`;  
 
-    fs.writeFile('READMEtest.md', readmeString, function(errorCheck)
+    fs.writeFile(fileName, readmeString, function(errorCheck)
     {
         if(err) {
             console.log("Error");
@@ -39,7 +39,7 @@ function writeToFile(fileName, data) {
 function init() {
     inquirer.prompt(questions).then((answers) => {
         // Use user feedback for... whatever!!
-        writeToFile(answers);
+        writeToFile(answers, 'READMEtest.md');
       })
       .catch((error) => {
         if (error.isTtyError) {
