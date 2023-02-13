@@ -1,8 +1,8 @@
 
 
-  # vnewovnerv :clipboard:
+  # cvrueiwnviwe :clipboard:
 
-  ![AAL license]https://img.shields.io/badge/AAL-license-blue
+  ![ISC license]https://img.shields.io/badge/License-ISC-blue
 
   ## Table of Contents
   - [Description](#description)
@@ -15,30 +15,30 @@
 
   ## Description
   
-  vwrevrewvewc
+  kvowrenvonw
 
   ## Installation 
 
-  cverwverwv
+  vjiefvjefnv
   
   ## Usage 
 
-  cverwcvrewv
+  vjirwvjiwerv
   
   ## License 
 
-  AAL
+  ISC
   
   ## Contributing 
 
-  efwv 
+  nvjorewnvoenv
   
   ## Tests
 
-  vrwever
+  nwqeovnreow
      
   ## Questions
 
-  Feel free to get in touch! <a href="mailto:ewrvrvw">ewrvrvw</a>;
+  Feel free to get in touch! <a href="mailto:wcenorvcwiqonc">wcenorvcwiqonc</a>;
   
   
