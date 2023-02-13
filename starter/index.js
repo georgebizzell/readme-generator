@@ -22,11 +22,14 @@ const questions = [
 // function to write README file
 function writeToFile(fileName, data) {
 
-    var readmeString =  `# ${data.title}`;  
+    console.log("write to file called");
+    var readmeString = "test string"; 
+    
+    // `# ${data.title}`;  
 
     fs.writeFile(fileName, readmeString, function(errorCheck)
     {
-        if(err) {
+        if(errorCheck) {
             console.log("Error");
         }
         else {
@@ -39,7 +42,7 @@ function writeToFile(fileName, data) {
 function init() {
     inquirer.prompt(questions).then((answers) => {
         // Use user feedback for... whatever!!
-        writeToFile(answers, 'READMEtest.md');
+        writeToFile('READMEtest.md', answers);
       })
       .catch((error) => {
         if (error.isTtyError) {
