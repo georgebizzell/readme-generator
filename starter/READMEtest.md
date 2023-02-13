@@ -2,6 +2,8 @@
 
   # ucibqvr :clipboard:
 
+  https://img.shields.io/badge/MIT-license-blue
+
   ## Table of Contents
   - [Description](#description)
   - [Installation](#installation)
