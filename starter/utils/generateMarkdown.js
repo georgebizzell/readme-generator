@@ -5,7 +5,7 @@ function generateMarkdown(data) {
 
   # ${data.title} :clipboard:
 
-  https://img.shields.io/badge/MIT-license-blue
+  ![${data.license} license]https://img.shields.io/badge/${data.license}-license-blue
 
   ## Table of Contents
   - [Description](#description)
