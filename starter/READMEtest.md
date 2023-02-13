@@ -1,8 +1,8 @@
 
 
-  # cvrueiwnviwe :clipboard:
+  # eqfe fgewc :clipboard:
 
-  ![ISC license]https://img.shields.io/badge/License-ISC-blue
+  ![W3C license](https://img.shields.io/badge/License-W3C-blue)
 
   ## Table of Contents
   - [Description](#description)
@@ -15,30 +15,30 @@
 
   ## Description
   
-  kvowrenvonw
+  wr cecf rf
 
   ## Installation 
 
-  vjiefvjefnv
+  rfwc f3rf4f
   
   ## Usage 
 
-  vjirwvjiwerv
+  f cf244c 
   
   ## License 
 
-  ISC
+  W3C
   
   ## Contributing 
 
-  nvjorewnvoenv
+  c 2fr 4c43
   
   ## Tests
 
-  nwqeovnreow
+   f 2c4f34
      
   ## Questions
 
-  Feel free to get in touch! <a href="mailto:wcenorvcwiqonc">wcenorvcwiqonc</a>;
+  Feel free to get in touch! <a href="mailto:fc3343xf">fc3343xf</a>;
   
   
