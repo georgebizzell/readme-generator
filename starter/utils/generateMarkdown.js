@@ -54,6 +54,10 @@ function generateMarkdown(data) {
 
   Usage and distribution of this application is governed by the ${data.license} license. <https://opensource.org/licenses/${data.license}>
   
+  ## Walkthrough video
+
+  ![Walkthrough video](${data.video})
+
   `;
 
 }

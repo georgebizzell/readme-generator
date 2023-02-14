@@ -58,6 +58,11 @@ const questions = [
         type: "input",
         name:"screenshot",
         message: "Enter the file location of a screenshot: "
+    },
+    {
+        type: "input",
+        name:"video",
+        message: "Enter the file location of your walkthrough video: "
     }
 ];
 
