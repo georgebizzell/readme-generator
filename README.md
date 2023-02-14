@@ -4,7 +4,7 @@
 
   ![MIT license](https://img.shields.io/badge/License-MIT-blue)
 
-  ![assets/screenshot.png](./starter/assets/screenshot.png)
+  ![./starter/assets/screenshot.png](./starter/assets/screenshot.png)
 
   ## Table of Contents
   - [Description](#description)
@@ -50,9 +50,9 @@
   ![MIT license](https://img.shields.io/badge/License-MIT-blue)
 
   Usage and distribution of this application is governed by the MIT license. <https://opensource.org/licenses/MIT>
-
+  
   ## Walkthrough video
 
-  ![Walkthrough video youtube link](https://youtu.be/TQvWI7M0owc)
-  
+  ![Walkthrough video youtube link](https://www.youtube.com/watch?v=TQvWI7M0owc)
+
   
