@@ -7,7 +7,7 @@ function generateMarkdown(data) {
 
   ![${data.license} license](https://img.shields.io/badge/License-${data.license}-blue)
 
-  ![${data.screenshot} license](${data.screenshot})
+  ![${data.screenshot}](${data.screenshot})
 
   ## Table of Contents
   - [Description](#description)
@@ -43,8 +43,10 @@ function generateMarkdown(data) {
   ${data.tests}
      
   ## Questions
+  
+  Check out my Github <a href="github.com/${data.github}">${data.github}</a>;
 
-  Feel free to get in touch! <a href="mailto:${data.questions}">${data.questions}</a>;
+  Feel free to get in touch via email! <a href="mailto:${data.email}">${data.email}</a>;
 
   ##License
 

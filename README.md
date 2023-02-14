@@ -2,9 +2,9 @@
 
   # Title :clipboard:
 
-  ![NTP license](https://img.shields.io/badge/License-NTP-blue)
+  ![W3C license](https://img.shields.io/badge/License-W3C-blue)
 
-  ![File location of screenshot license](File location of screenshot)
+  ![filelocation](filelocation)
 
   ## Table of Contents
   - [Description](#description)
@@ -29,24 +29,26 @@
   
   ## License 
 
-  NTP
+  W3C
   
   ## Contributing 
 
-  Contribution
+  Contirbution guide
   
   ## Tests
 
   Testing
      
   ## Questions
+  
+  Check out my Github <a href="github.com/georgebizzell">georgebizzell</a>;
 
-  Feel free to get in touch! <a href="mailto:Email address">Email address</a>;
+  Feel free to get in touch via email! <a href="mailto:Email address">Email address</a>;
 
   ##License
 
-  ![NTP license](https://img.shields.io/badge/License-NTP-blue)
+  ![W3C license](https://img.shields.io/badge/License-W3C-blue)
 
-  Usage and distribution of this application is governed by the NTP license. <https://opensource.org/licenses/NTP>
+  Usage and distribution of this application is governed by the W3C license. <https://opensource.org/licenses/W3C>
   
   
