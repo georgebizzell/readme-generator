@@ -4,7 +4,7 @@
 
   ![MIT license](https://img.shields.io/badge/License-MIT-blue)
 
-  ![images/2023-02-14_14h22_30.png](images/2023-02-14_14h22_30.png)
+  ![images/2023-02-14_14h22_30.png](./images/2023-02-14_14h22_30.png)
 
   ## Table of Contents
   - [Description](#description)
