@@ -1,10 +1,10 @@
 
 
-  # Title :clipboard:
+  # Titl :clipboard:
 
-  ![W3C license](https://img.shields.io/badge/License-W3C-blue)
+  ![NTP license](https://img.shields.io/badge/License-NTP-blue)
 
-  ![filelocation](filelocation)
+  ![file location](file location)
 
   ## Table of Contents
   - [Description](#description)
@@ -17,38 +17,38 @@
 
   ## Description
   
-  Description
+  buebifr
 
   ## Installation 
 
-  Installation
+  ru2ibr4
   
   ## Usage 
 
-  Usage
+  bv24ribv
   
   ## License 
 
-  W3C
+  NTP
   
   ## Contributing 
 
-  Contirbution guide
+  vrbi2rubvr
   
   ## Tests
 
-  Testing
+  wbvuirb
      
   ## Questions
   
-  Check out my Github <a href="github.com/georgebizzell">georgebizzell</a>;
+  Check out my Github [github.com/georgebizzell](https://www.github.com/georgebizzell)
 
-  Feel free to get in touch via email! <a href="mailto:Email address">Email address</a>;
+  Feel free to get in touch via email! <a href="mailto:bvr2ui">bvr2ui</a>;
 
   ##License
 
-  ![W3C license](https://img.shields.io/badge/License-W3C-blue)
+  ![NTP license](https://img.shields.io/badge/License-NTP-blue)
 
-  Usage and distribution of this application is governed by the W3C license. <https://opensource.org/licenses/W3C>
+  Usage and distribution of this application is governed by the NTP license. <https://opensource.org/licenses/NTP>
   
   
