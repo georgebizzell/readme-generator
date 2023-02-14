@@ -48,7 +48,7 @@ function generateMarkdown(data) {
 
   Feel free to get in touch via email! <a href="mailto:${data.email}">${data.email}</a>;
 
-  ##License
+  ## License
 
   ![${data.license} license](https://img.shields.io/badge/License-${data.license}-blue)
 
