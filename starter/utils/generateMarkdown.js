@@ -44,7 +44,7 @@ function generateMarkdown(data) {
      
   ## Questions
   
-  Check out my Github <a href="github.com/${data.github}">${data.github}</a>;
+  Check out my Github [github.com/${data.github}](https://www.github.com/${data.github})
 
   Feel free to get in touch via email! <a href="mailto:${data.email}">${data.email}</a>;
 
