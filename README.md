@@ -53,6 +53,6 @@
   
   ## Walkthrough video
 
-  ![Walkthrough video youtube link](https://www.youtube.com/watch?v=TQvWI7M0owc)
+  [Walkthrough video youtube link](https://www.youtube.com/watch?v=TQvWI7M0owc)
 
   

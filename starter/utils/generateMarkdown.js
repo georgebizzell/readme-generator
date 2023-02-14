@@ -56,7 +56,7 @@ function generateMarkdown(data) {
   
   ## Walkthrough video
 
-  ![Walkthrough video youtube link](${data.video})
+  [Walkthrough video youtube link](${data.video})
 
   `;
 
