@@ -45,6 +45,12 @@ function generateMarkdown(data) {
   ## Questions
 
   Feel free to get in touch! <a href="mailto:${data.questions}">${data.questions}</a>;
+
+  ##License
+
+  ![${data.license} license](https://img.shields.io/badge/License-${data.license}-blue)
+
+  Usage and distribution of this application is governed by the ${data.license} license. <https://opensource.org/licenses/${data.license}>
   
   `;
 

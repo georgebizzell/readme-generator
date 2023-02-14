@@ -27,7 +27,7 @@ const questions = [
     {
         type: "input",
         name:"usage",
-        message: "Please provide an explanation of how to use the application: "
+        message: "How is the application used?"
     },
     {
         type: "list",
@@ -38,12 +38,12 @@ const questions = [
     {
         type: "input",
         name:"contributing",
-        message: "How can other people contribute?"
+        message: "How can others contribute?"
     },
     {
         type: "input",
         name:"tests",
-        message: "How does the testing work?"
+        message: "What is the process for testing this application?"
     },
     {
         type: "input",
@@ -53,7 +53,7 @@ const questions = [
     {
         type: "input",
         name:"screenshot",
-        message: "File location of a screenshot: "
+        message: "Enter the file location of a screenshot: "
     }
 ];
 
@@ -81,7 +81,7 @@ function writeToFile(fileName, data) {
 function init() {
     inquirer.prompt(questions).then((answers) => {
         // Use user feedback for... whatever!!
-        writeToFile('READMEtest.md', answers);
+        writeToFile('../README.md', answers);
       })
       .catch((error) => {
         if (error.isTtyError) {
