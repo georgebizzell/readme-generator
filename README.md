@@ -53,6 +53,6 @@
 
   ## Walkthrough video
 
-  ![Walkthrough video](./starter/assets/walkthrough_video.mp4)
+  ![Walkthrough video youtube link](https://youtu.be/TQvWI7M0owc)
   
   

@@ -62,7 +62,7 @@ const questions = [
     {
         type: "input",
         name:"video",
-        message: "Enter the file location of your walkthrough video: "
+        message: "Enter a link to a walkthrough video"
     }
 ];
 
